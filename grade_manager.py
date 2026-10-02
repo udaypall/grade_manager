@@ -97,3 +97,4 @@ lowest_mark = min(student["marks"] for student in students)
 
 print(f"Average Marks: {average_marks:.2f}", f"  Highest Mark: {highest_mark:.2f}", f"   Lowest Mark: {lowest_mark:.2f}")
 
+#End of the program 
